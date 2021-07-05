@@ -1,0 +1,12 @@
+.idea
+
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+*.egg
+*.egg-info/
+
+
+dist/
+data/
