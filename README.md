@@ -14,4 +14,4 @@ appropriate ML pipeline for each type of botnet and improves the correct classif
 ### Using ANTE
 
 
-[Offline bot classification using ANTE](/experiments/botnet_classification.ipynb)
+[Supervised classification using ANTE](/experiments/botnet_classification.ipynb)
